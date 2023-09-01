@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+.calculator {
+    background-image: url(https://us.123rf.com/450wm/romeomd/romeomd2303/romeomd230300475/199949098-wooden-numbers-on-a-black-wooden-background-the-concept-of-education-and-learning.jpg?ver=6);
+    display: inline-block;
+    margin: 20px 20px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+}
+
+.numbers {
+    color: white;
+    padding: 5px;
+}
+
+.name {
+    color: white;
+}
+
+.operations {
+    text-align: start;
+    padding: 10px 55px;
+    cursor: pointer;
+}
+
+.total {
+    cursor: pointer;
+    border-radius: 4px;
+    text-align: center;
+    padding: 2px;
+}
+
+.resetAll {
+    cursor: pointer;
+    border-radius: 4px;
+    text-align: center;
+    padding: 2px;
+}
